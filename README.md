@@ -1,2 +1,2 @@
 # webCartas
-A web application for managing and visualizing cartography documents and workflows.
+Tu web de juegos de cartas
